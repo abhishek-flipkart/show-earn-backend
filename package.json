@@ -1,0 +1,25 @@
+{
+  "name": "show-earn-backend",
+  "version": "1.0.0",
+  "description": "Sample learning application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-flipkart/show-earn-backend.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Abhishek Panda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishek-flipkart/show-earn-backend/issues"
+  },
+  "homepage": "https://github.com/abhishek-flipkart/show-earn-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
